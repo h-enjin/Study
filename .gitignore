@@ -1,0 +1,35 @@
+#############
+## Windows detritus
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+## Original
+# Image
+img/
+*.png
+*.gif
+*.jpg
+*.jpeg
+
+# Music
+bgm/
+*.mp3
+*.wav
+*.as
+*.swf
+
+# Etc
+enchant.js
+*.enchant.js
